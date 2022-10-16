@@ -2,9 +2,9 @@
 
 ## Olá eu sou o Allysson Neves👋
 
-- 🖥️Desenvolvedor Front-end em desenvolvimento.
+- 🖥️Desenvolvedor Front-end em formação.
 - 🤓Atualmente cursando Analise e Desenvolvimento de Sistemas.
-- 💥Estou na busca de minha primeira vaga com dev.
+- 💥Estou na busca de minha primeira vaga como dev.
 
 ### Contato
 
